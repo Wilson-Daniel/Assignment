@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/41bc77ea-891a-4c5f-83c4-67c60d3dfded
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -17,6 +19,12 @@ In Android Studio, click on Build -> Rebuild Project.
 4. Run the app:
 
 Click on the Run button or use Shift + F10.
+
+## Screenshots & Videos
+Uploading Video 2024-08-07 at 2.26.08 AM.mp4…
+![Screenshot_20240807-022316](https://github.com/user-attachments/assets/0a840513-14db-4cc3-af2a-39d466775c25)
+
+
 
 ## Usage
 1. Browse Pokémon:
