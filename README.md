@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pokeserene.git
+git clone https://github.com/Wilson-Daniel/Assignment.git
 ```
 
 2. Open the project in Android Studio.
