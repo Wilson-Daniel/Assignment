@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/41bc77ea-891a-4c5f-83c4-67c60d3dfded
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -21,9 +20,15 @@ In Android Studio, click on Build -> Rebuild Project.
 Click on the Run button or use Shift + F10.
 
 ## Screenshots & Videos
-Uploading Video 2024-08-07 at 2.26.08 AM.mp4…
-![Screenshot_20240807-022316](https://github.com/user-attachments/assets/0a840513-14db-4cc3-af2a-39d466775c25)
 
+https://github.com/user-attachments/assets/a017149a-0acf-4063-b2c4-c7b2536b8ed5
+
+<img src="https://github.com/user-attachments/assets/0a840513-14db-4cc3-af2a-39d466775c25" alt="Screenshot" width="350"/>
+<img src="https://github.com/user-attachments/assets/fe380524-418d-4442-9de4-4fb7b70339f1" alt="Screenshot" width="350"/>
+<img src="https://github.com/user-attachments/assets/b2b888c6-fe19-4ab6-9397-a592c667fcd6" alt="Screenshot" width="350"/>
+
+## APK Link
+https://drive.google.com/file/d/1jY2xv5hmXDP7g4_Gc0LFC0ZmDISkOC6D/view?usp=sharing
 
 
 ## Usage
