@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/a017149a-0acf-4063-b2c4-c7b2536b8ed5
 <img src="https://github.com/user-attachments/assets/b2b888c6-fe19-4ab6-9397-a592c667fcd6" alt="Screenshot" width="350"/>
 
 ## APK Link
-https://drive.google.com/file/d/1jY2xv5hmXDP7g4_Gc0LFC0ZmDISkOC6D/view?usp=sharing
+https://drive.google.com/drive/folders/1rFl__FnTK1YbxoHe_hCcB1_MvakeTE76?usp=sharing
 
 
 ## Usage
